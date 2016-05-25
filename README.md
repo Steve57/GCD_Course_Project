@@ -8,5 +8,10 @@ This document descibes the contents of this repository. It also provideds a desc
 
 | File Name | Description|
 |---|---|
-|README.md| This file |
-|CodeBook.md | Decribes the process and final content of the tidy data set.|
+| README.md| This file |
+| CodeBook.md | Decribes the process and final content of the tidy data set.|
+| run_analysis.R | Script to process raw to final tidy data. |
+
+**Processing**  
+
+

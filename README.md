@@ -1,12 +1,10 @@
-
-README
-
+**README**
 This document descibes the contents of this repository. It also provideds a description of the R script created to complete the project.
 
-### References
+**References**
 
 
-### Repository Contents
+**Repository Contents**
 
 | File Name | Description|
 |---|---|
